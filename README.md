@@ -26,3 +26,8 @@ https://www.webpagefx.com/tools/emoji-cheat-sheet/
 AD Stuff:
 
 https://blogs.technet.microsoft.com/rmilne/2014/10/01/how-to-run-manual-dirsync-azure-active-directory-sync-updates/
+
+
+Windows Stuff:
+
+https://chocolatey.org/
