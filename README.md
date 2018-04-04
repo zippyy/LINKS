@@ -36,3 +36,7 @@ https://chocolatey.org/
 git stuff:
 
 https://github.com/search?q=stars%3A%3E1&s=forks&type=Repositories
+
+bookmarks:
+
+https://www.ghacks.net/2018/03/31/logmein-to-shut-down-xmarks-on-may-1-2018/
