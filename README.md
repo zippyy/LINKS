@@ -31,3 +31,8 @@ https://blogs.technet.microsoft.com/rmilne/2014/10/01/how-to-run-manual-dirsync-
 Windows Stuff:
 
 https://chocolatey.org/
+
+
+git stuff:
+
+https://github.com/search?q=stars%3A%3E1&s=forks&type=Repositories
