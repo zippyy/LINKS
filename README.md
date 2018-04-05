@@ -18,6 +18,8 @@ https://piratebox.cc/raspberry_pi:diy
 
 https://github.com/billz/raspap-webgui
 
+https://www.raspberrypi.org/documentation/remote-access/ssh/
+
 
 IRC/Chat Stuff:
 
