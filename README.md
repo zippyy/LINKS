@@ -44,3 +44,5 @@ https://picard.musicbrainz.org/
 bookmarks:
 
 https://www.ghacks.net/2018/03/31/logmein-to-shut-down-xmarks-on-may-1-2018/
+
+http://www.geol.lsu.edu/dutrow/mingy/2006_Mineralogy_Field_Trip.html
