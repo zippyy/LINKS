@@ -48,3 +48,5 @@ https://www.ghacks.net/2018/03/31/logmein-to-shut-down-xmarks-on-may-1-2018/
 http://www.geol.lsu.edu/dutrow/mingy/2006_Mineralogy_Field_Trip.html
 
 https://www.dailystar.co.uk/pics/pictures/2654/unusual-hotels-beautiful-amazing-unique-travel-in-pictures
+
+https://blogs.iis.net/robert_mcmurray/Creating-an-HTML-Application-to-Convert-Text-Files-to-Audio-Files
