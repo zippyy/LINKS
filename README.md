@@ -50,3 +50,5 @@ http://www.geol.lsu.edu/dutrow/mingy/2006_Mineralogy_Field_Trip.html
 https://www.dailystar.co.uk/pics/pictures/2654/unusual-hotels-beautiful-amazing-unique-travel-in-pictures
 
 https://blogs.iis.net/robert_mcmurray/Creating-an-HTML-Application-to-Convert-Text-Files-to-Audio-Files
+
+https://blogs.msdn.microsoft.com/carlosag/2017/01/10/creating-a-weather-app-using-powerapps/
