@@ -57,5 +57,7 @@ https://stephenjust.ca/fedora-surface3.html
 
 https://www.opoet.com/pyro/index.php/get-started
 
+http://paindr.com/one-size-opioid-dose-does-not-fit-all/
+
 https://www.guru99.com/python-tutorials.html
 
