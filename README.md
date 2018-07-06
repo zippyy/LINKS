@@ -61,3 +61,7 @@ http://paindr.com/one-size-opioid-dose-does-not-fit-all/
 
 https://www.guru99.com/python-tutorials.html
 
+
+Switch Stuff:
+
+http://sorrow.thoas.feralhosting.com/Remuxes/rtorrent_data/
