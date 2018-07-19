@@ -66,3 +66,7 @@ https://medium.com/coderbyte/learn-by-doing-the-8-best-interactive-coding-websit
 Switch Stuff:
 
 http://sorrow.thoas.feralhosting.com/Remuxes/rtorrent_data/
+
+3ds stuff
+
+https://darthsternie.bplaced.net/3ds.html
