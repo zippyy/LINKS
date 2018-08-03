@@ -67,6 +67,9 @@ Switch Stuff:
 
 http://sorrow.thoas.feralhosting.com/Remuxes/rtorrent_data/
 
+https://www.ebay.com/itm/USB-C-3-1-Type-C-Male-To-USB-Female-OTG-Adapter-Converter-For-Tablet-Phone-US/362298850768?_trkparms=aid%3D555019%26algo%3DPL.BANDIT%26ao%3D1%26asc%3D20150817211709%26meid%3Db1eba348fb414f4abe8100ea14ac333e%26pid%3D100506%26rk%3D1%26rkt%3D1%26%26itm%3D362298850768&_trksid=p2045573.c100506.m3226
+
 3ds stuff
 
 https://darthsternie.bplaced.net/3ds.html
+
