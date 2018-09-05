@@ -1,6 +1,9 @@
 # LINKS
 LINKS TO STUFF
 
+cool scripts
+https://elifulkerson.com/projects/
+
 
 AWESOME LISTS:
 
