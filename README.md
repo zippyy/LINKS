@@ -76,3 +76,7 @@ https://www.ebay.com/itm/USB-C-3-1-Type-C-Male-To-USB-Female-OTG-Adapter-Convert
 
 https://darthsternie.bplaced.net/3ds.html
 
+
+urban exploration
+
+http://www.placesthatwere.com/2016/01/huge-abandoned-titan-i-icbm-nuclear.html
