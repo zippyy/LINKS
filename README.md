@@ -80,3 +80,5 @@ https://darthsternie.bplaced.net/3ds.html
 urban exploration
 
 http://www.placesthatwere.com/2016/01/huge-abandoned-titan-i-icbm-nuclear.html
+
+https://www.uer.ca/locations/newlist.asp?country=United%20States&province=Colorado
