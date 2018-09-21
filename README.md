@@ -82,3 +82,5 @@ urban exploration
 http://www.placesthatwere.com/2016/01/huge-abandoned-titan-i-icbm-nuclear.html
 
 https://www.uer.ca/locations/newlist.asp?country=United%20States&province=Colorado
+
+https://lifedeathiron.com/2015/11/28/25-more-abandoned-buildings-in-colorado-you-must-see-before-they-are-gone/
